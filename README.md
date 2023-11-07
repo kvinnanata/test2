@@ -57,7 +57,17 @@ After executing this command, you have a gentx. Submit a pull request (gentx fol
 ```bash
 File Genesis transaction written to "/.haqqd/config/gentx/gentx-xxx.json"
 ```
-
+After executing this command, you have a gentx. Submit a pull request (gentx folder) with the given gentx
+```bash
+File Genesis transaction written to "/.haqqd/config/gentx/gentx-xxx.json"After executing this command, you have a gentx. Submit a pull request (gentx folder) with the given gentx
+```bash
+File Genesis transaction written to "/.haqqd/config/gentx/gentx-xxx.json"After executing this command, you have a gentx. Submit a pull request (gentx folder) with the given gentx
+```bash
+File Genesis transaction written to "/.haqqd/config/gentx/gentx-xxx.json"After executing this command, you have a gentx. Submit a pull request (gentx folder) with the given gentx
+```bash
+File Genesis transaction written to "/.haqqd/config/gentx/gentx-xxx.json"After executing this command, you have a gentx. Submit a pull request (gentx folder) with the given gentx
+```bash
+File Genesis transaction written to "/.haqqd/config/gentx/gentx-xxx.json"
 
 
 
